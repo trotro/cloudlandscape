@@ -1,2 +1,3 @@
-# cloudlandscape
-Sources of the cloud landscape website
+# cloud landscape
+
+This website aims to provide an overview of cloud providers accross the world.
